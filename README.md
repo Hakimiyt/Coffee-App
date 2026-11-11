@@ -10,7 +10,7 @@ A mobile coffee app built with React Native (Expo). Run it directly on your phon
 
 ## Screenshots
 
-<img width="306" height="801" alt="image" src="https://github.com/user-attachments/assets/bdbe20ef-aaf5-49b9-8c82-c54af111031a" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/bdbe20ef-aaf5-49b9-8c82-c54af111031a" />
 <img width="596" height="1279" alt="image" src="https://github.com/user-attachments/assets/11322c35-4ae3-4c73-86cf-5c641dc1b370" />
 <img width="600" height="1280" alt="image" src="https://github.com/user-attachments/assets/bd8f9d8c-6b08-453e-948d-050a68c0c7b5" />
 <img width="596" height="1278" alt="image" src="https://github.com/user-attachments/assets/0392c0f2-4b5c-4719-922c-36dc3f23c10b" />
